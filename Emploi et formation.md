@@ -18,7 +18,7 @@ Godille      | démarches
 
 ### Comment devenir traducteur ?
 
-*Le meilleur moyen : le master traduction redaction technique de l'UBO
+* Le meilleur moyen : le master traduction redaction technique de l'UBO
 * Mais il existe d'autres possibilités :
      * Master LEA
      * Master LLCER

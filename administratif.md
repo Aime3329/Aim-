@@ -17,9 +17,19 @@ Les contrats dans le sport concernent souvent les relations entre athlètes, age
 * Éviter toute ambiguïté qui pourrait entraîner des conflits juridiques ou des malentendus.
 * Collaborer avec des avocats ou des conseillers juridiques pour s’assurer que la traduction respecte les normes légales.
 
+### Traduction de communiqués et de documents de communication
+
+Les organisations sportives (fédérations, clubs, etc.) publient régulièrement des communiqués de presse, des annonces officielles ou des rapports d’activités. Ces documents doivent être traduits dans différentes langues pour atteindre un public international. Le traducteur dans ce cas doit :
+* Adapter le ton et le style du communiqué pour qu’il soit accessible et approprié à chaque public cible.
+* Veiller à la cohérence de la traduction avec l’image et les valeurs de l’organisation sportive.
+* Assurer une rapidité de la traduction, car les communiqués de presse doivent souvent être diffusés rapidement pour répondre à l’actualité.
+
 ## Les relations à l'étranger
 
+![alt text](https://urbanmedia.group/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-27-at-19.36.23-770x446.jpeg)
 
+Le traducteur dans le domaine sportif est bien plus qu’un simple interprète de mots. Il joue un rôle essentiel dans la facilitation des relations internationales en veillant à ce que les différentes parties – qu'il s'agisse de fédérations, d'équipes, d'organisateurs ou de sponsors – puissent collaborer efficacement sans que les barrières linguistiques ou culturelles n'entravent la communication. Il est un acteur-clé pour assurer la fluidité des interactions et le succès des événements dans un environnement où la compréhension mutuelle est essentielle à tous les niveaux du sport international.
+Par exemple il assure que les termes contractuels sont juridiquement valides dans chaque langue et chaque pays impliqué, il facilite les négociations internationales en permettant aux parties de bien comprendre les enjeux commerciaux, les droits de diffusion et les obligations contractuelles, il permet d'éviter les malentendus qui pourraient coûter des millions, notamment lorsqu’il s’agit de grandes entreprises ou de fédérations majeures.
 
 
 

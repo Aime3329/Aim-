@@ -12,4 +12,4 @@ La traduction dans le sport présente des exigences et des difficultés spécifi
 
 Ici Robert Lacerte, réviseur linguistique, explique sur radio Canada la difficulté qu'il a eu lors des épreuves de breaking, qui comportent beaucoup de termes techniques anglais et donc très difficiles à traduire.
 
-***
+

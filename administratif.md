@@ -6,12 +6,13 @@ Ce rôle administratif est essentiel pour garantir la bonne compréhension des r
 
 ### Traduction des règlements sportifs
 Les règlements sportifs sont des documents complexes qui définissent les règles, les procédures et les normes applicables dans une discipline sportive. La traduction de ces règlements doit être exacte et fidèle à l’original, car toute erreur pourrait conduire à des malentendus ou des litiges lors des compétitions. Le traducteur doit donc : 
-* Connaître les termes techniques spécifiques au sport concerné  
-+ Assurer que les traductions soient conformes aux standards juridiques et aux principes sportifs internationaux  
-- Adapter les termes et expressions pour qu’ils soient compréhensibles pour les acteurs dans la langue cible tout en restant conformes aux règlements originaux.
+* Connaître les termes techniques spécifiques au sport concerné
+* Assurer que les traductions soient conformes aux standards juridiques et aux principes sportifs internationaux
+* Adapter les termes et expressions pour qu’ils soient compréhensibles pour les acteurs dans la langue cible tout en restant conformes aux règlements originaux.
 
 ### Traduction des contrats
 Les contrats dans le sport concernent souvent les relations entre athlètes, agents, clubs, fédérations et sponsors. Ces documents incluent des clauses juridiques complexes qui peuvent varier en fonction des systèmes législatifs de chaque pays. Le traducteur joue un rôle critique pour :
+* ~~Rédiger intégralement le contrat en fonction de ses envies personnelles.~~
 * Traduire les termes juridiques et commerciaux avec une grande précision.
 * Assurer que toutes les parties comprennent clairement leurs droits et obligations respectifs.
 * Éviter toute ambiguïté qui pourrait entraîner des conflits juridiques ou des malentendus.

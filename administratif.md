@@ -1,4 +1,8 @@
 # Les rôles administratifs du traducteur dans le sport
+
+***
+[Accueil](https://github.com/Aime3329/Aime/blob/main/index.md) [Administratif](https://github.com/Aime3329/Aime/blob/main/administratif.md) [Communication](https://github.com/Aime3329/Aime/blob/main/Communication.md) [Emploi & Formations](https://github.com/Aime3329/Aime/blob/main/Emploi%20et%20formation.md) [Autres missions](https://github.com/Aime3329/Aime/blob/main/autres.md)
+***
 Le rôle administratif du traducteur dans le sport est essentiel pour faciliter la communication entre les différentes parties prenantes, qu'il s'agisse d'athlètes, d'entraîneurs, de journalistes ou d'organisateurs d'événements internationaux. Il aide à traduire des documents officiels, comme les règlements, les contrats ou les communiqués de presse, et assure également une interprétation en temps réel lors de conférences de presse, réunions ou compétitions. Ce travail permet de garantir une compréhension claire et précise entre les individus de langues différentes, assurant ainsi le bon déroulement des activités sportives à l'échelle internationale.
 
 ## La traduction de documents officiels

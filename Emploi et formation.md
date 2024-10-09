@@ -23,9 +23,9 @@ Rugby        | Consultez les offres d’emploi des fédérations nationales de r
 
 * Le meilleur moyen : le master traduction redaction technique de l'Université de Bretagne Occidentale à Brest
 * Mais il existe d'autres possibilités :
-     * Master LEA
-     * Master LLCER
-     * Formations en école spécialisée comme l'Esit
+     * Master `LEA`
+     * Master `LLCER`
+     * Formations en école spécialisée comme l'`Esit`
 
 Mais il sera également nécessaire de s’informer sur le sport : Lire des livres, regarder des documentaires et suivre des émissions sportives pour comprendre les règles, le jargon et les spécificités de tous les sports mais aussi se familiariser avec la terminologie propre à chaque discipline. Il faudrait également participer à des événements sportifs locaux, rejoindre des clubs ou des associations pour mieux appréhender la culture et le vocabulaire associés au sport.
 
@@ -35,5 +35,5 @@ La pratique de la traduction est essentiel. Proposer ses services de traduction 
 
 Rejoindre des groupes professionnels et adhérer à des associations de traducteurs (comme l’Association des Traducteurs Littéraires de France) ou des réseaux sociaux spécialisés dans la traduction pour échanger des conseils et des opportunités mais aussi suivre des traducteurs sportifs sur les réseaux sociaux, lire leurs blogs ou assister à des conférences pour apprendre de leur expérience permet de se constuire et d'étoffer son réseau professionnel.
 
-L'utilisation des outils de traduction comme des logiciels de TAO (Traduction Assistée par Ordinateur) est important. Se familiariser avec des outils comme SDL Trados, MemoQ ou Wordfast, qui sont souvent utilisés dans le secteur de la traduction professionnelle sera un véritable atout dans la recherche d'un emploi dans le monde de la traduction sportive.
+L'utilisation des outils de traduction comme des logiciels de TAO (Traduction Assistée par Ordinateur) est important. Se familiariser avec des outils comme `SDL Trados`, `MemoQ` ou `Wordfast`, qui sont souvent utilisés dans le secteur de la traduction professionnelle sera un véritable atout dans la recherche d'un emploi dans le monde de la traduction sportive.
 

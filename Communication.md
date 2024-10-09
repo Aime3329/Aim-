@@ -6,7 +6,7 @@
 
 ## Créer des liens
 
-![Alt text](https://www.nethique.info/wp-content/uploads/2024/09/314a2eea1327984e7c45985a613ade12.webp "créer des liens")
+![Alt text](https://www.nethique.info/wp-content/uploads/2024/09/314a2eea1327984e7c45985a613ade12.webp)
 
 ### Liens diplomatiques
 
